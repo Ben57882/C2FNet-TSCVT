@@ -1,5 +1,4 @@
-# C2F-Net: Camouflaged Object Detection via 
-#Context-aware Cross-level Fusion
+# C2F-Net: Camouflaged Object Detection via Context-aware Cross-level Fusion
 > **Authors:** 
 > [Geng chen](https://www.researchgate.net/profile/Geng_Chen13),
 >Si-Jie Liu,
