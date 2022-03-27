@@ -1,6 +1,6 @@
-# C2F-Net: Camouflaged Object Detection via Context-aware Cross-level Fusion
+# Camouflaged Object Detection via Context-aware Cross-level Fusion
 > **Authors:** 
-> [Geng chen](https://www.researchgate.net/profile/Geng_Chen13),
+> [Geng Chen](https://www.researchgate.net/profile/Geng_Chen13),
 >Si-Jie Liu,
 >Yu-Jia Sun
 > [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en),
@@ -9,7 +9,7 @@
 
 ## 1. Preface
 
-- This repository provides code for "_**C2F-Net: Camouflaged Object Detection via Context-aware Cross-level Fusion**_" IJCAI-2021. 
+- This repository provides code for "_**Camouflaged Object Detection via Context-aware Cross-level Fusion**_". 
 ([paper]())
 
 - If you have any questions about our paper, feel free to contact me. And if you are using C2F-Net
@@ -20,14 +20,14 @@ or evaluation toolbox for your research, please cite this paper ([BibTeX](#4-cit
 
 ### 1.1. Table of Contents
 
-- [C2F-Net: Camouflaged Object Detection via Context-aware Cross-level Fusion](#C2F-Net--amouflaged Object Detection via Context-aware Cross-level Fusion--IJCAI-2021-)
+- [Camouflaged Object Detection via Context-aware Cross-level Fusion]
   * [1. Preface](#1-preface)
     + [1.1. Table of Contents](#11-table-of-contents)
   * [2. Overview](#2-overview)
     + [2.1. Introduction](#21-introduction)
     + [2.2. Framework Overview](#22-framework-overview)
     + [2.3. Qualitative Results](#23-qualitative-results)
-  * [3. Proposed Baseline](#3-proposed-baseline)
+  * [3. Proposed Method](#3-proposed-baseline)
     + [3.1 Training/Testing](#31-training-testing)
     + [3.2 Evaluating your trained model:](#32-evaluating-your-trained-model-)
     + [3.3 Pre-computed maps:](#33-pre-computed-maps)
@@ -59,7 +59,7 @@ Camouflaged object detection (COD) is a challenging task due to the low boundary
     </em>
 </p>
 
-## 3. Proposed Baseline
+## 3. Proposed Method
 
 ### 3.1. Training/Testing
 
@@ -123,16 +123,6 @@ Just run `eval.py` to evaluate the trained model.
 ## 4. Citation
 
 Please cite our paper if you find the work useful: 
-
-Please cite our paper if you find the work useful: 
-
-	@inproceedings{sun2021c2fnet,
-	title={Context-aware Cross-level Fusion Network for Camouflaged Object Detection},
-	author={Sun, Yujia and Chen, Geng and Zhou, Tao and Zhang, Yi and Liu, Nian},
-	booktitle={IJCAI},
-	year={2021}
-	}
-
 
 
 ## 5. License
