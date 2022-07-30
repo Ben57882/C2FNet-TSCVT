@@ -122,12 +122,19 @@ Just run `eval.py` to evaluate the trained model.
 ## 4. Citation
 
 Please cite our paper if you find the work useful: 
+
 @article{chen2022camouflaged,
+
   title={Camouflaged Object Detection via Context-aware Cross-level Fusion},
+  
   author={Chen, Geng and Liu, Si-Jie and Sun, Yu-Jia and Ji, Ge-Peng and Wu, Ya-Feng and Zhou, Tao},
+  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  
   year={2022},
+  
   publisher={IEEE}
+
 }
 
 ## 5. License
