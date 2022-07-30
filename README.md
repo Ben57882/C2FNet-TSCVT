@@ -41,6 +41,7 @@ or evaluation toolbox for your research, please cite this paper ([BibTeX](#4-cit
 ### 2.1. Introduction
 
 Camouflaged object detection (COD) is a challenging task due to the low boundary contrast between the object and its surroundings. In addition, the appearance of camouflaged objects varies significantly, e.g., object size and shape, aggravating the difficulties of accurate COD. In this paper, we propose a novel Context-aware Cross-level Fusion Network (C2FNet) to address the challenging COD task. Specifically,  an attention-induced cross-level fusion module (ACFM) is proposed to fuse high-level features, and a dual-branch global context module (DGCM) is proposed to fully exploit multi-scale context information from the fused features. Two modules are organized in a cascaded manner. The last DGCM provides an initial prediction. We then refine the low-level features  with the initial prediction and predict the final COD result with our camouflage inference module (CIM.)
+
 ### 2.2. Framework Overview
 
 <p align="center">
@@ -115,15 +116,19 @@ Assigning your costumed path, like `method`, `mask_root` and `pred_root` in `eva
 
 Just run `eval.py` to evaluate the trained model.
 
-
-
 ### 3.3 Pre-computed maps: 
 > pre-computed map can be found in [download link((BaiduNetdisk)](https://pan.baidu.com/s/18NV-lPs6vbk80wH88Ugzyg)  keys: 6k6d
 
 ## 4. Citation
 
 Please cite our paper if you find the work useful: 
-
+@article{chen2022camouflaged,
+  title={Camouflaged Object Detection via Context-aware Cross-level Fusion},
+  author={Chen, Geng and Liu, Si-Jie and Sun, Yu-Jia and Ji, Ge-Peng and Wu, Ya-Feng and Zhou, Tao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}
 
 ## 5. License
 
