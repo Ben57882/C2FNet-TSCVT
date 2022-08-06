@@ -10,7 +10,7 @@
 ## 1. Preface
 
 - This repository provides code for "_**Camouflaged Object Detection via Context-aware Cross-level Fusion**_". 
-([paper]())
+([paper](https://arxiv.org/abs/2207.13362))
 
 - If you have any questions about our paper, feel free to contact me. And if you are using C2F-Net
 or evaluation toolbox for your research, please cite this paper ([BibTeX](#4-citation)).
@@ -123,6 +123,7 @@ Just run `eval.py` to evaluate the trained model.
 
 Please cite our paper if you find the work useful: 
 
+~~~
 @article{chen2022camouflaged,
 
   title={Camouflaged Object Detection via Context-aware Cross-level Fusion},
@@ -136,6 +137,7 @@ Please cite our paper if you find the work useful:
   publisher={IEEE}
 
 }
+~~~
 
 ## 5. License
 
