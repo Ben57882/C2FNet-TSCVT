@@ -81,7 +81,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 1. Downloading necessary data:
 
     + downloading testing dataset and move it into `./data/TestDataset/`, 
-    which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1SLRB5Wg1Hdy7CQ74s3mTQ3ChhjFRSFdZ/view?usp=sharing).
+    which can be found in this [download link (Google Drive)](https://drive.google.com/uc?id=1QEGnP9O7HbN_2tH999O3HRIsErIVYalx&export=download?usp=sharing).
     
     + downloading training dataset and move it into `./data/TrainDataset/`, 
     which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1Kifp7I0n9dlWKXXNIbN7kgyokoRY4Yz7/view?usp=sharing).
