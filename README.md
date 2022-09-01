@@ -84,7 +84,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
     which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1SLRB5Wg1Hdy7CQ74s3mTQ3ChhjFRSFdZ/view?usp=sharing).
     
     + downloading training dataset and move it into `./data/TrainDataset/`, 
-    which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1lODorfB33jbd-im-qrtUgWnZXxB94F55/view?usp=sharing).
+    which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1Kifp7I0n9dlWKXXNIbN7kgyokoRY4Yz7/view?usp=sharing).
     
     + downloading pretrained weights and move it into `./checkpoints/C2FNet/C2FNet-49.pth`, 
     which can be found in this [download link (BaiduNetdisk)](https://pan.baidu.com/s/1WLRdub4Rz7xSxd-vuMqEaQ)  keys: c0cc.
