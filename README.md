@@ -117,7 +117,7 @@ Assigning your costumed path, like `method`, `mask_root` and `pred_root` in `eva
 Just run `eval.py` to evaluate the trained model.
 
 ### 3.3 Pre-computed maps: 
-> pre-computed map can be found in [download link((BaiduNetdisk)](https://pan.baidu.com/s/18NV-lPs6vbk80wH88Ugzyg)  keys: 6k6d
+> pre-computed map can be found in [download link(BaiduNetdisk)](https://pan.baidu.com/s/1o-LO-0QqnhgwQ87fbMgC2Q) keys: ihuu
 
 ## 4. Citation
 
